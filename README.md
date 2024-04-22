@@ -1,0 +1,2 @@
+# Latihan
+Latihan Penggunaan GIthub
